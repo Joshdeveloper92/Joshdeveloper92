@@ -1,9 +1,9 @@
 # 👋 ¡Hola! Soy Jorge
 
-🎯 Desarrollador Full Stack en formación con muchas ganas de aprender, crecer y crear soluciones reales con código.
+🎯 Desarrollador Frontend en formación con muchas ganas de aprender, crecer y crear soluciones reales con código.
 
 🚀 Actualmente estoy aprendiendo y practicando:
-- JavaScript | React | Node.js | Express | MongoDB
+- JavaScript | React | Node.js
 - HTML | CSS | Git & GitHub
 
 
