@@ -26,7 +26,8 @@ Pronto verás aquí clones de apps conocidas, mini CRUDs y aplicaciones usando A
 
 📫 ¿Hablamos?
 - Email: holeuhe@gmail.com
-- LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/jorge-andres-garcia-castillo)
+- LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/jorge-andres-garcia-castillo
+  )
 
 ---
 
